@@ -55,7 +55,4 @@ Craig_Supply_Chain_Dashboard.xlsx
 - Rebuild in **Power BI** for live filtering and enhanced scalability
 - Expand dataset to **1,000+ records** for scalability and performance testing
 
----
 
-## 🔒 Ethical Disclosure
-All data used in this project is synthetic and created for educational purposes only.
